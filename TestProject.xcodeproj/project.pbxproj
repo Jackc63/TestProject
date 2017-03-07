@@ -12,7 +12,7 @@
 		CED76F341E6EE0A400460A63 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED76F321E6EE0A400460A63 /* Main.storyboard */; };
 		CED76F361E6EE0A400460A63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED76F351E6EE0A400460A63 /* Assets.xcassets */; };
 		CED76F391E6EE0A400460A63 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED76F371E6EE0A400460A63 /* LaunchScreen.storyboard */; };
-		CED76F421E6EECAD00460A63 /* slurp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CED76F411E6EECAD00460A63 /* slurp.mp3 */; };
+		CED76F441E6F0DCE00460A63 /* slurp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CED76F431E6F0DCE00460A63 /* slurp.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		CED76F351E6EE0A400460A63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CED76F381E6EE0A400460A63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CED76F3A1E6EE0A400460A63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CED76F411E6EECAD00460A63 /* slurp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = slurp.mp3; path = ../../../Downloads/slurp.mp3; sourceTree = "<group>"; };
+		CED76F431E6F0DCE00460A63 /* slurp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = slurp.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		CED76F401E6EEC9A00460A63 /* sounds */ = {
 			isa = PBXGroup;
 			children = (
-				CED76F411E6EECAD00460A63 /* slurp.mp3 */,
+				CED76F431E6F0DCE00460A63 /* slurp.mp3 */,
 			);
 			name = sounds;
 			sourceTree = "<group>";
@@ -134,8 +134,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CED76F421E6EECAD00460A63 /* slurp.mp3 in Resources */,
 				CED76F391E6EE0A400460A63 /* LaunchScreen.storyboard in Resources */,
+				CED76F441E6F0DCE00460A63 /* slurp.mp3 in Resources */,
 				CED76F361E6EE0A400460A63 /* Assets.xcassets in Resources */,
 				CED76F341E6EE0A400460A63 /* Main.storyboard in Resources */,
 			);
